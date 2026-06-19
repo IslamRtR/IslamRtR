@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/IslamRtR/IslamRtR/main/banner.png" width="100%">
+<img src="https://raw.githubusercontent.com/IslamRtR/IslamRtR/main/isag002.png" width="220"> </p>
 
 # ISLAM GABBAS
-
-<img src="https://raw.githubusercontent.com/IslamRtR/IslamRtR/main/isag002.png" width="220"> </p>
 
 <img src="https://komarev.com/ghpvc/?username=IslamRtR&label=Profile+Views&color=58A6FF&style=for-the-badge"/>
 
