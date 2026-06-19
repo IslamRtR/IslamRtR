@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/IslamRtR/IslamRtR/main/avatar.png](https://chatgpt.com/backend-api/estuary/content?id=file_00000000dec871fa838573d284119139&ts=494964&p=fs&cid=1&sig=b7d32052ec877ee231b73e799892d7a51541bf79184dd13da360b5bec2213a8f&v=0)" width="220">
+  <img src="blob:https://www.instagram.com/fd83105e-d8fe-4755-aade-b51687ad4b78" width="220">
 </p>
 
 
