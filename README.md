@@ -1,122 +1,80 @@
 <div align="center">
-<table>
-<tr>
-<td width="35%">
 
-<img src="https://raw.githubusercontent.com/IslamRtR/IslamRtR/main/avatar.png" width="250">
 
-</td>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IslamRtR/IslamRtR/main/avatar.png" width="220">
+</p>
 
-<td>
 
-# ISLAM GABBAS
+# 👋 Привет, я Ислам Габбас
 
-### 💻 Full Stack Developer
+### 💻 Full Stack Developer | 🤖 AI Developer | ⚛️ React Developer
 
-### 🎨 UI/UX Designer
-
-### 🤖 AI Developer
-
-React • Next.js • Node.js
-
-PostgreSQL • MongoDB
-
-Figma • Photoshop
-
-</td>
-</tr>
-</table>
-
-# ISLAM GABBAS
-
-### Full Stack Developer • UI/UX Designer • AI Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Full+Stack+Developer;UI%2FUX+Designer;React+%7C+Node.js+%7C+PostgreSQL;Turning+Ideas+Into+Products" />
+🚀 Создаю современные веб-приложения, CRM-системы и AI-проекты
 
 </div>
 
 ---
 
-## 🚀 About Me
-
-* 💻 Full Stack Developer
-* 🎨 UI/UX Designer (Figma)
-* 🖼️ Photoshop & Graphic Design
-* 🤖 AI Applications Developer
-* ⚡ Building real-world products and startups
-* 📍 Almaty, Kazakhstan
-
----
-
 ## 🛠️ Tech Stack
 
-### Frontend
-
-React • Next.js • JavaScript • TypeScript • Tailwind CSS
-
-### Backend
-
-Node.js • Express.js • REST API
-
-### Database
-
-PostgreSQL • MongoDB
-
-### Design
-
-Figma • Photoshop
-
-### Tools
-
-Git • GitHub • VS Code • Postman
-
----
-
-## 🌟 Featured Projects
-
-### 🌿 QARAGUL AI
-
-Plant recognition platform powered by AI.
-
-### 🎬 KINOPOISK
-
-Movie search and recommendation platform.
-
-### 🏢 CRM System
-
-Business management and customer tracking.
-
-### ✈️ Travel Platform
-
-Travel discovery and planning application.
-
----
-
-## 📊 GitHub Analytics
-
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=IslamRtR&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IslamRtR&layout=compact&theme=github_dark&hide_border=true"/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,postgres,mongodb,tailwind,git,github,vscode" />
+
 </p>
 
 ---
 
-## 🏆 Goals
+## 🚀 Featured Projects
 
-✔ Build successful SaaS products
+### 🌿 QARAGUL AI
 
-✔ Master Full Stack Development
+AI-сервис для распознавания растений по фотографии.
 
-✔ Launch AI-powered applications
+### 🎬 KINOPOISK
 
-✔ Grow as a UI/UX Designer
+Платформа для поиска и просмотра информации о фильмах.
+
+### 🏢 CRM System
+
+CRM для управления клиентами и продажами.
+
+### ✈️ Travel App
+
+Сервис для путешественников с рекомендациями и полезной информацией.
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Statistics
 
-💬 Telegram: https://t.me/isagls
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IslamRtR&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IslamRtR&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
-📱 WhatsApp: https://wa.me/77080284757
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=IslamRtR&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Contacts
+
+📱 WhatsApp:
+https://wa.me/77080284757
+
+📨 Telegram:
+https://t.me/isagls
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
 
 </div>
