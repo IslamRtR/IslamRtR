@@ -45,6 +45,7 @@ ai:
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,postgres,mongodb,tailwind,git,github,vscode,figma,photoshop"/>
 </p>
+
 ---
 
 ## 📊 GITHUB ANALYTICS
