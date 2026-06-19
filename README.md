@@ -1,149 +1,122 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/IslamRtR/IslamRtR/main/isag002.png" width="220"/>
+<img src="https://raw.githubusercontent.com/IslamRtR/IslamRtR/main/banner.png" width="100%">
 
-# 👋 ISLAM GABBAS
+# ISLAM GABBAS
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+Developer;UI%2FUX+Designer;React+%7C+Node.js+%7C+PostgreSQL;Building+Modern+Web+Applications;Turning+Ideas+Into+Products" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Developer;UI%2FUX+Designer;React+%7C+Node.js+%7C+PostgreSQL;Building+Modern+Web+Applications" />
 
-<p>
 <img src="https://komarev.com/ghpvc/?username=IslamRtR&label=Profile+Views&color=58A6FF&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/IslamRtR?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/IslamRtR?style=for-the-badge"/>
-</p>
-
-### 💻 Full Stack Developer • 🤖 AI Developer • 🎨 UI/UX Designer
-
-🚀 Building AI-powered products and modern web applications
 
 </div>
 
 ---
 
-# ⚡ About Me
+## 🚀 ABOUT ME
 
 ```yaml
 name: Islam Gabbas
 role: Full Stack Developer
 location: Almaty, Kazakhstan
-skills:
+
+frontend:
   - React
   - Next.js
+  - TypeScript
+  - Tailwind CSS
+
+backend:
   - Node.js
+  - Express.js
+
+database:
   - PostgreSQL
   - MongoDB
+
+design:
   - Figma
   - Photoshop
-  - AI Integration
+
+ai:
+  - Gemini API
+  - Hugging Face
 ```
 
----
+## ⚡ TECH STACK
 
-# 🛠️ Tech Stack
-
-<div align="center">
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,postgres,mongodb,tailwind,git,github,vscode,figma,photoshop"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma"/>
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop"/>
-
-</div>
+</p>
 
 ---
 
-# 🚀 Featured Projects
+## 🏆 GITHUB TROPHIES
 
-### 🌿 QARAGUL AI
-
-AI-powered plant recognition platform.
-
-### 🎬 KINOPOISK
-
-Movie discovery and recommendation platform.
-
-### 🏢 CRM System
-
-Customer and sales management platform.
-
-### ✈️ Travel App
-
-Travel planning and discovery service.
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=IslamRtR&theme=tokyonight&no-frame=true&row=1"/>
+</p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 📊 GITHUB ANALYTICS
 
-<div align="center">
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IslamRtR&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=IslamRtR&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=IslamRtR&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IslamRtR&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IslamRtR&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-# 🔥 Contribution Streak
+## 🔥 CONTRIBUTION STREAK
 
-<div align="center">
-
+<p align="center">
 <img src="https://streak-stats.demolab.com?user=IslamRtR&theme=tokyonight&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-# 📈 Activity Graph
+## 📈 ACTIVITY GRAPH
 
-<div align="center">
-
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=IslamRtR&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
-
-📨 Telegram
-
-https://t.me/isagls
-
-📱 WhatsApp
-
-https://wa.me/77080284757
-
-</div>
+</p>
 
 ---
 
+## 🌿 FEATURED PROJECTS
+
+| Project | Description |
+|----------|------------|
+| 🌿 QARAGUL AI | AI-powered plant recognition |
+| 🎬 KINOPOISK | Movie search platform |
+| 🏢 CRM System | Customer management system |
+| ✈️ Travel App | Travel planning platform |
+
+---
+
+## 📫 CONTACTS
+
+<p align="center">
+
+<a href="https://t.me/isagls">
+<img src="https://img.shields.io/badge/Telegram-isagls-2CA5E0?style=for-the-badge&logo=telegram"/>
+</a>
+
+<a href="https://wa.me/77080284757">
+<img src="https://img.shields.io/badge/WhatsApp-87080284757-25D366?style=for-the-badge&logo=whatsapp"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 <div align="center">
 
-## 🚀 "Code. Design. Build. Repeat."
-
-⭐ Thanks for visiting my profile!
+### 🚀 Code • Design • Build • Repeat
 
 </div>
