@@ -4,7 +4,7 @@
 
 # ISLAM GABBAS
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Developer;UI%2FUX+Designer;React+%7C+Node.js+%7C+PostgreSQL;Building+Modern+Web+Applications" />
+<img src="https://raw.githubusercontent.com/IslamRtR/IslamRtR/main/isag002.png" width="220"> </p>
 
 <img src="https://komarev.com/ghpvc/?username=IslamRtR&label=Profile+Views&color=58A6FF&style=for-the-badge"/>
 
