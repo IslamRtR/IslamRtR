@@ -7,8 +7,12 @@
 
 
 # 👋 Привет, я Ислам Габбас
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Developer;UI%2FUX+Designer;React+%7C+Node.js+%7C+PostgreSQL;Building+Modern+Web+Applications" />
+</p>
 
 ### 💻 Full Stack Developer | 🤖 AI Developer | ⚛️ React Developer
+
 
 🚀 Создаю современные веб-приложения, CRM-системы и AI-проекты
 
