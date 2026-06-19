@@ -1,16 +1,27 @@
-## Hi there 👋
+╔══════════════════════════════════════╗
+║  ISLAM GABBAS                        ║
+║  FULL STACK DEVELOPER                ║
+║                                      ║
+║  React • Node • PostgreSQL • AI      ║
+║  Building modern web applications    ║
+╚══════════════════════════════════════╝
 
-<!--
-**IslamRtR/IslamRtR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Привет, я Ислам
 
-Here are some ideas to get you started:
+💻 Full Stack Developer
+🤖 AI Developer
+⚛️ React Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats
+🚀 Projects
+
+React
+Next.js
+JavaScript
+TypeScript
+Node.js
+Express
+PostgreSQL
+MongoDB
+Git
+Tailwind
