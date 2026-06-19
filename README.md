@@ -1,74 +1,95 @@
 <div align="center">
 
-# 👋 Привет, я Ислам Габбас
+# ISLAM GABBAS
 
-### 💻 Full Stack Developer | 🤖 AI Developer | ⚛️ React Developer
+### Full Stack Developer • UI/UX Designer • AI Enthusiast
 
-🚀 Создаю современные веб-приложения, CRM-системы и AI-проекты
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Full+Stack+Developer;UI%2FUX+Designer;React+%7C+Node.js+%7C+PostgreSQL;Turning+Ideas+Into+Products" />
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,postgres,mongodb,tailwind,git,github,vscode" />
-
-</p>
+* 💻 Full Stack Developer
+* 🎨 UI/UX Designer (Figma)
+* 🖼️ Photoshop & Graphic Design
+* 🤖 AI Applications Developer
+* ⚡ Building real-world products and startups
+* 📍 Almaty, Kazakhstan
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Tech Stack
+
+### Frontend
+
+React • Next.js • JavaScript • TypeScript • Tailwind CSS
+
+### Backend
+
+Node.js • Express.js • REST API
+
+### Database
+
+PostgreSQL • MongoDB
+
+### Design
+
+Figma • Photoshop
+
+### Tools
+
+Git • GitHub • VS Code • Postman
+
+---
+
+## 🌟 Featured Projects
 
 ### 🌿 QARAGUL AI
 
-AI-сервис для распознавания растений по фотографии.
+Plant recognition platform powered by AI.
 
 ### 🎬 KINOPOISK
 
-Платформа для поиска и просмотра информации о фильмах.
+Movie search and recommendation platform.
 
 ### 🏢 CRM System
 
-CRM для управления клиентами и продажами.
+Business management and customer tracking.
 
-### ✈️ Travel App
+### ✈️ Travel Platform
 
-Сервис для путешественников с рекомендациями и полезной информацией.
+Travel discovery and planning application.
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IslamRtR&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IslamRtR&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=IslamRtR&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IslamRtR&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🏆 Goals
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=IslamRtR&theme=github-dark&hide_border=true"/>
-</p>
+✔ Build successful SaaS products
 
----
+✔ Master Full Stack Development
 
-## 📫 Contacts
+✔ Launch AI-powered applications
 
-📱 WhatsApp:
-https://wa.me/77080284757
-
-📨 Telegram:
-https://t.me/isagls
+✔ Grow as a UI/UX Designer
 
 ---
 
-<div align="center">
+## 📫 Connect With Me
 
-### ⭐ Thanks for visiting my profile!
+💬 Telegram: https://t.me/isagls
+
+📱 WhatsApp: https://wa.me/77080284757
 
 </div>
