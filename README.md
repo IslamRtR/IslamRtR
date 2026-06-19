@@ -1,4 +1,31 @@
 <div align="center">
+<table>
+<tr>
+<td width="35%">
+
+<img src="https://raw.githubusercontent.com/IslamRtR/IslamRtR/main/avatar.png" width="250">
+
+</td>
+
+<td>
+
+# ISLAM GABBAS
+
+### 💻 Full Stack Developer
+
+### 🎨 UI/UX Designer
+
+### 🤖 AI Developer
+
+React • Next.js • Node.js
+
+PostgreSQL • MongoDB
+
+Figma • Photoshop
+
+</td>
+</tr>
+</table>
 
 # ISLAM GABBAS
 
