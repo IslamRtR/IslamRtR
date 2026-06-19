@@ -28,6 +28,8 @@
 
 </p>
 
+
+![snake gif](https://github.com/IslamRtR/IslamRtR/blob/output/github-contribution-grid-snake-dark.svg)
 ---
 
 ## 🚀 Featured Projects
