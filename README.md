@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="blob:https://www.instagram.com/fd83105e-d8fe-4755-aade-b51687ad4b78" width="220">
+<img src="https://raw.githubusercontent.com/IslamRtR/IslamRtR/main/isag002.png" width="220">
 </p>
 
 
