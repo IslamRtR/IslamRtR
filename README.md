@@ -1,93 +1,149 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/IslamRtR/IslamRtR/main/isag002.png" width="220"/>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/IslamRtR/IslamRtR/main/isag002.png" width="220">
+# 👋 ISLAM GABBAS
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+Developer;UI%2FUX+Designer;React+%7C+Node.js+%7C+PostgreSQL;Building+Modern+Web+Applications;Turning+Ideas+Into+Products" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=IslamRtR&label=Profile+Views&color=58A6FF&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/IslamRtR?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/IslamRtR?style=for-the-badge"/>
 </p>
 
+### 💻 Full Stack Developer • 🤖 AI Developer • 🎨 UI/UX Designer
 
-# 👋 Привет, я Ислам Габбас
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Developer;UI%2FUX+Designer;React+%7C+Node.js+%7C+PostgreSQL;Building+Modern+Web+Applications" />
-</p>
-
-### 💻 Full Stack Developer | 🤖 AI Developer | ⚛️ React Developer
-
-
-🚀 Создаю современные веб-приложения, CRM-системы и AI-проекты
+🚀 Building AI-powered products and modern web applications
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+# ⚡ About Me
 
-<p align="center">
+```yaml
+name: Islam Gabbas
+role: Full Stack Developer
+location: Almaty, Kazakhstan
+skills:
+  - React
+  - Next.js
+  - Node.js
+  - PostgreSQL
+  - MongoDB
+  - Figma
+  - Photoshop
+  - AI Integration
+```
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,postgres,mongodb,tailwind,git,github,vscode" />
+---
 
+# 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://img.shields.io/badge/React-20232A?logo=react">
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql">
-<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma">
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop">
-</p>
+<div align="center">
 
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,postgres,mongodb,tailwind,git,github,vscode,figma,photoshop"/>
 
+</div>
 
+<br>
 
-## 🚀 Featured Projects
+<div align="center">
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma"/>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
 
 ### 🌿 QARAGUL AI
 
-AI-сервис для распознавания растений по фотографии.
+AI-powered plant recognition platform.
 
 ### 🎬 KINOPOISK
 
-Платформа для поиска и просмотра информации о фильмах.
+Movie discovery and recommendation platform.
 
 ### 🏢 CRM System
 
-CRM для управления клиентами и продажами.
+Customer and sales management platform.
 
 ### ✈️ Travel App
 
-Сервис для путешественников с рекомендациями и полезной информацией.
+Travel planning and discovery service.
 
 ---
 
-## 📊 GitHub Statistics
+# 🏆 GitHub Trophies
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IslamRtR&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IslamRtR&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+<div align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=IslamRtR&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
-## 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=IslamRtR&theme=github-dark&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-## 📫 Contacts
+# 📊 GitHub Analytics
 
-📱 WhatsApp:
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=IslamRtR&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IslamRtR&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=IslamRtR&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IslamRtR&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+📨 Telegram
+
+https://t.me/isagls
+
+📱 WhatsApp
+
 https://wa.me/77080284757
 
-📨 Telegram:
-https://t.me/isagls
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## 🚀 "Code. Design. Build. Repeat."
+
+⭐ Thanks for visiting my profile!
 
 </div>
