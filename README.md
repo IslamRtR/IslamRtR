@@ -45,15 +45,6 @@ ai:
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,postgres,mongodb,tailwind,git,github,vscode,figma,photoshop"/>
 </p>
-
----
-
-## 🏆 GITHUB TROPHIES
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=IslamRtR&theme=tokyonight&no-frame=true&row=1"/>
-</p>
-
 ---
 
 ## 📊 GITHUB ANALYTICS
