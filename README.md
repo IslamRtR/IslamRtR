@@ -28,8 +28,9 @@
 
 </p>
 
-
-![snake gif](https://github.com/IslamRtR/IslamRtR/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=IslamRtR&theme=tokyonight&no-frame=true&row=1" />
+</p>
 ---
 
 ## 🚀 Featured Projects
